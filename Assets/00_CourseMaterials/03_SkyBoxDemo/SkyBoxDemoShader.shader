@@ -43,8 +43,6 @@
                 o.texcoord_3f = v.vertex.xyz;
 
 				return o;
-
-
                 // 2. remove the translations from MV matrix
                 // matMV[0][3] = 0.0;
                 // matMV[1][3] = 0.0;
