@@ -4650,9 +4650,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   downSample: 1
   samplerScale: 1
-  colorThreshold: {r: 0.5019608, g: 0.5019608, b: 0.5019608, a: 0.5019608}
+  colorThreshold: {r: 0.5882353, g: 0.5882353, b: 0.5882353, a: 0.5882353}
   bloomColor: {r: 1, g: 1, b: 1, a: 1}
-  bloomFactor: 0
+  bloomFactor: 10
   _Material: {fileID: 2100000, guid: 5f9085f98ee84df4ea18bf92253137be, type: 2}
 --- !u!1001 &205482322
 PrefabInstance:
